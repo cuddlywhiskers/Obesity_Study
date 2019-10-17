@@ -1,4 +1,4 @@
-# Obesity_Study
+# Obesity Study
 The Untitled Obesity Study 
 
 Obesity has been a prominent issue in the West. This project that aims to identify factors co-relating to the spike in obesity rates across America. Obesity, being a multi-dimensional issue, stems from a combination of factors and some of these key risk factors identified were (state level data): 
